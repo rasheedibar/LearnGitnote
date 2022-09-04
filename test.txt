@@ -1,2 +1,3 @@
 Hello world!
 New tutorial for git.
+Learn as much as you can everyday.
